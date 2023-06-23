@@ -44,7 +44,7 @@ def renameFiles():
     
 
 window = Tk(className=" File Renaming Tool")
-window.geometry("600x400")
+window.geometry("350x400")
 
 
 txtBox = Text(window, height=15, width=25)
@@ -57,7 +57,6 @@ userRenameInput = Entry()
 openFileButton.pack()
 txtBox.pack()
 startRenameButton.pack()
-
 
 
 window.mainloop()
