@@ -1,4 +1,4 @@
-# PDF-Combiner-and-Bulk-File-Renamer
+# Files Shorcuts
 
 ## appendPDF.py
 Python program to append .pdf files in bulk in the order you attach them to the program.
